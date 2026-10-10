@@ -1,0 +1,6 @@
+{
+  "name": "Политех Спутник",
+  "description": "PolyMap карта кампуса и этажей, расписание пар СПбПУ RUZ API, ссылки на СДО Moodle, поиск преподавателей и сервисы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

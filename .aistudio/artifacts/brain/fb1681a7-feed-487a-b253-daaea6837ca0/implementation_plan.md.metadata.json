@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan for PolyMap SPbPU:\n1. Re-architected 3-tab bottom navigation (Сервисы, Карта, Главное).\n2. Multi-Design Engine: Selectable UI design presets inspired by scrn.gallery (Minimal iOS Dock, Neumorphic Glass, Compact Utility, Expressive M3) switching layout, icon sizes, card formats, and visual density.\n3. Smart Natural Language Search: Parses complex student queries like 'преподователь химии у направления мехатроники и робототехники 1 курса группы 60002', returning teachers with photos and class type breakdown (Полякова - лекция, Бочагина - практика, Крылов).\n4. Authentic PolyMap Campus & Floor map with building outlines, interactive room lookup, floor selector (Ц, 1..4), and classroom timetables.\n5. Figma Import Guide explaining step-by-step export to Figma.",
+  "updatedAt":  "2026-10-10T23:13:17.592442028Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

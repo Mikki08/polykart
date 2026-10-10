@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer subtle glow circle -->
+    <path
+        android:fillColor="#26FFFFFF"
+        android:pathData="M54,23 A31,31 0 1,1 53.9,23 Z" />
+
+    <!-- Main Polytechnic classical university pediment -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,48 L54,34 L74,48 Z" />
+
+    <!-- Entablature bar -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M32,49 H76 V52 H32 Z" />
+
+    <!-- Classical pillars / columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,54 H41 V69 H36 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,54 H51 V69 H46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,54 H62 V69 H57 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,54 H72 V69 H67 Z" />
+
+    <!-- University base plinth -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M32,70 H76 V74 H32 Z" />
+
+    <!-- Sub-base steps -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M29,74 H79 V77 H29 Z" />
+
+    <!-- Golden navigation pin badge / compass star in the center pediment -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,39 L56,43 L60,44 L56.5,47 L58,51 L54,48.5 L50,51 L51.5,47 L48,44 L52,43 Z" />
+
+    <!-- Location beacon pulse dot -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,26 A3,3 0 1,1 53.9,26 Z" />
+</vector>
